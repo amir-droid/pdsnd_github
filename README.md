@@ -42,3 +42,8 @@ If I got stuck some place, the source(s) below helped me-
 3. [Tutorials Point](https://www.tutorialspoint.com/python/)
 4. [Pandas Documentation](https://pandas.pydata.org/pandas-docs/version/0.17.0/)
 5. I used [Jupyter Notebook](http://jupyter.org/) extensively for quickly running small snippets of code, and [Atom editor](https://atom.io/) for bigger pieces of code.
+
+To use the project:
+
+1. Place the bikeshare.py file and all the CSV files in the same folder.
+2. Run the python file using a suitable python interpreter.
